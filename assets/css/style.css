@@ -1,0 +1,154 @@
+/*Estilo general*/
+body{
+	padding-top: 50px;
+	background: url('../img/img-fondo.jpg') top left repeat;
+}
+
+h1, h2, h3{
+	font-family: acme, sans-serif;
+}
+
+h3{
+	text-align: center;
+}
+
+/*Title & enroll*/
+#title-enroll .jumbotron{
+	padding-left: 15%;
+	padding-bottom: 18%;
+	background: white url('../img/web-developer.png') 80% 50% no-repeat;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	text-align: left;
+	color: #2E2E2E;
+	opacity: 0.8;
+}
+
+/*Separar secciones*/
+.wrap{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.wrap2{
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+.wrap-img{
+	padding-top: 50px;
+	padding-bottom: 10px;
+	background: url('../img/100_garantia.png') 100% 100% no-repeat;
+}
+/*about*/
+#about{
+	text-align: center;
+	color: white;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	padding-bottom: 120px;
+}
+
+#about .col-sm-3{
+	opacity: 0.8;
+}
+
+#about-col-text{
+	padding-top: 5%;
+}
+
+#allAbout{
+	color: black;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	background: white url('../img/fondo-about.png') 100% 100% no-repeat;
+	opacity: 0.8;
+}
+
+#rs{
+	opacity: 2;
+}
+
+#knowledge{
+	color: white;
+}
+
+#allAbout-p{
+	font-size: 13px;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
+
+/*CONFIGURACIÓN REDES SOCIALES*/
+.badge.social{
+	background: #95A5A6;
+	font-size: 20px;
+	height: 35px;
+	width: 35px;
+	text-align: center;
+	line-height: 35px;
+	padding: 0;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+	border-radius: 35px;
+	color: white;
+}
+
+/*Cambio de color a las redes sociales HOVER*/
+.badge.social.twitter:hover{
+	background: #55ACEE;
+}
+.badge.social.linkedin:hover{
+	background: #4875B4;
+}
+.badge.social.skype:hover{
+	background: #12A5F4;
+}
+.badge.social.workana:hover{
+	background: #9933CC;
+}
+/* CONTACTAME*/
+#contactMe{
+	background: white;
+	padding-top: 150px;
+	padding-bottom: 100px;
+}
+/* FOOTER */
+#footer{
+	padding: 20px;
+	background: #708090;
+	color: white;
+	text-align: center;
+}
+
+/*Servicios*/
+
+
+.tab-content{
+	background: white;
+}
+
+.carousel-inner { text-align: center; }
+.carousel .item > img { display: inline-block; }
+
+#portafolioServicios{
+	color: white;
+}
+
+/*Experience*/
+#expAndroid{
+	background: white;
+}
+
+#pExpAndroid{
+	padding-top: 100px;
+	color: black;
+	text-align: center;
+}
+
+#colorTextWhite{
+	color: white;
+}
+
+#imgSelLeft{
+	padding-left: 3px;
+}
