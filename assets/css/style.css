@@ -73,7 +73,7 @@ h3{
 }
 
 #allAbout-p{
-	font-size: 13px;
+	font-size: 15px;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
@@ -151,4 +151,11 @@ h3{
 
 #imgSelLeft{
 	padding-left: 3px;
+}
+
+#sentemail{
+	color: white;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
 }
