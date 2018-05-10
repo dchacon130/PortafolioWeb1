@@ -31,7 +31,7 @@ if (isset($_POST["imputName"])) {
 	$mensaje = "Cordial saludo <br><br> Por favor contactar a: $name al correo electronico $email o al telefono $tel <br><br> Asunto: $message <br><br> Gracias.";
 		
 	
-	if(mail('dchacon@freelancediego.website', $asunto, $mensaje, $headers)){
+	if(mail('dchacon130@gmail.com', $asunto, $mensaje, $headers)){
 		header("location:../SentEmail.php");
 	} else {
 		$error = "Error en el envío de su correo, intentarlo más tarde";
