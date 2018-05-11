@@ -48,13 +48,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="home.html">
+          <a class="navbar-brand" href="index">
               <img src="assets/img/Logo-Diego-SinFondo2.png" alt="Diego Alexander Chacón González">
           </a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="home">Inicio</a></li>
+                <li><a href="index">Inicio</a></li>
                 <li><a href="about">Acerca de mi</a></li>
                 <li class="active"><a href="Servicios">Servicios</a></li>
                 <li><a href="experience">Experiencia</a></li>
