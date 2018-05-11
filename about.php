@@ -82,7 +82,7 @@
                     <br><br>
                     Siempre me mantengo actualizado a las últimas tendencias, herramientas o formas de trabajo, por eso la creación de esta web, ya que en la actualidad si no estás en internet no te ven. 
                     <br><br>
-                    En esta profesión se debe ser un Ingeniero integral, debemos saber que quiere el cliente, también la mejor forma de desarrollar su producto y con la mejor calidad posible. 
+                    En esta profesión se debe ser un Ingeniero integral, se deben saber que quiere el cliente, también la mejor forma de desarrollar su producto y con la mejor calidad posible. 
                     <br><br>
                     Desde el inicio de cada trabajo hasta el final, este es mi propósito, ser una parte esencial y primordial de su proyecto.
                 </p>  
